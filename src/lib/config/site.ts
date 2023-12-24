@@ -26,5 +26,5 @@ export const site: SiteConfig = {
         link: 'https://github.com/Sadeeptha-B'
       }]
   },
-  themeColor: '#3D4451'
+  themeColor: '#252732'
 }
