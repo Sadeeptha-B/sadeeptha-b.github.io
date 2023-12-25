@@ -11,4 +11,4 @@ jobs:
     permissions:
       contents: write
     with:
-      publish_dir: build
+      publish_dir: ./build
