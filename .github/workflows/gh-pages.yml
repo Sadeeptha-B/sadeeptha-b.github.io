@@ -11,6 +11,4 @@ jobs:
     permissions:
       contents: write
     with:
-      publish_branch: gh-pages
       publish_dir: build
-      allow_empty_commit: true
