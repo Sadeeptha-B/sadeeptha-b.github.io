@@ -1,0 +1,25 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Node modules (if theme uses npm)
+node_modules/
+
+# Optional: ignore themes if using submodules
+/themes/*
+!/themes/typo
+
+# Optional: ignore local config overrides
+config.local.toml
+
+# Hugo build lock file
+.hugo_build.lock
